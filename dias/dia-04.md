@@ -1,4 +1,4 @@
-# Día 4 · JavaScript básico
+# Día 4 · JavaScript básico y mini-proyecto con los datos de la demo
 
 [← Día 3](dia-03.md) · [Volver al README](../README.md) · [Día 5 →](dia-05.md)
 

@@ -1,6 +1,6 @@
 # Pasantes de Hook
 
-¡Bienvenido/a! Este repositorio es tu punto de partida. Acá vas a encontrar lo que tenés que hacer cada día durante tus **10 días de pasantía (3 horas por día)**.
+¡Bienvenido/a! Este repositorio es tu punto de partida. Acá vas a encontrar lo que tenés que hacer cada día durante tus **5 días de pasantía (3 horas por día)**.
 
 Hook fabrica balanzas y software para el campo: un sistema que ayuda a manejar los animales, los corrales, las dietas y los pesajes de un feedlot (un corral de engorde de ganado). Durante estos días vas a pasar de "usé Scratch" a "subí mi propio código a GitHub".
 
@@ -22,7 +22,7 @@ Hook fabrica balanzas y software para el campo: un sistema que ayuda a manejar l
 
 ## Cómo se trabaja
 
-Cada día tiene su propia guía, con el tiempo de cada bloque. Abrí la de hoy y seguila de arriba hacia abajo. **Empezá por el [Día 1](dias/dia-01.md).** Todos los días están en la tabla [Los 10 días](#los-10-días).
+Cada día tiene su propia guía, con el tiempo de cada bloque. Abrí la de hoy y seguila de arriba hacia abajo. **Empezá por el [Día 1](dias/dia-01.md).** Todos los días están en la tabla [Los 5 días](#los-5-días).
 
 > **Regla de oro:** mientras algo se descarga o se instala, no te quedes mirando la barra. Hacé la tarea de "mientras tanto" que te indica la guía del día.
 
@@ -44,20 +44,15 @@ Cada día tiene su propia guía, con el tiempo de cada bloque. Abrí la de hoy y
 
 ---
 
-## Los 10 días
+## Los 5 días
 
 | Día | Tema |
 |---|---|
 | [1](dias/dia-01.md) | Cuentas e instalación |
 | [2](dias/dia-02.md) | Git y GitHub en la práctica, y el flujo de trabajo de Hook |
 | [3](dias/dia-03.md) | HTML y CSS: tu primera página |
-| [4](dias/dia-04.md) | JavaScript básico |
-| [5](dias/dia-05.md) | Usar los datos de la demo de Hook |
-| [6](dias/dia-06.md) | Mini-proyecto propio, parte 1 |
-| [7](dias/dia-07.md) | Mini-proyecto propio, parte 2 |
-| [8](dias/dia-08.md) | Mini-proyecto propio, parte 3 |
-| [9](dias/dia-09.md) | Mini-proyecto propio, parte 4 |
-| [10](dias/dia-10.md) | Presentación y cierre |
+| [4](dias/dia-04.md) | JavaScript básico y mini-proyecto con los datos de la demo |
+| [5](dias/dia-05.md) | Terminar el mini-proyecto y presentación |
 
 La guía de cada día se completa antes de que empiece.
 
