@@ -14,6 +14,7 @@ Hook fabrica balanzas y software para el campo: un sistema que ayuda a manejar l
 |---|---|---|
 | Tu mail de pasante | <https://mail.balanzashook.com.ar> | Usuario: `pasantes@balanzashook.com.ar`. La contraseña te la da Mauro en persona (no está escrita acá). |
 | La app de Hook (demo) | <https://app.balanzashook.com.ar> | Usuario: `demo@balanzashook.com.ar`, contraseña: `12345678` |
+| La computadora | Pantalla de inicio de Windows | PIN: `3462` |
 
 > La app es una demo con datos de ejemplo. Podés tocar lo que quieras, no rompés nada.
 
