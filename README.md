@@ -58,6 +58,12 @@ La guía de cada día se completa antes de que empiece.
 
 ---
 
+## Para seguir después de la pasantía
+
+Cuando termines, si querés seguir aprendiendo en tu casa, mirá [Para seguir en tu casa](para-seguir-en-casa.md): un curso en video recomendado por Fabricio Sodano. No es parte de los 5 días.
+
+---
+
 ## Reglas
 
 1. **Nunca subas contraseñas** a GitHub. Este repo es público: lo ve todo el mundo.
